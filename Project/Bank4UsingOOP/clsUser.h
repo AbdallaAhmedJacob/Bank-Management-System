@@ -10,7 +10,7 @@
 
 using namespace std;
 
-short _Key = 123456;
+int _Key = 123456;
 
 class clsUser : public clsPerson
 {
