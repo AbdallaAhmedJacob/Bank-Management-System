@@ -1,8 +1,4 @@
 #include "clsLoginScreen.h"
-#include "Global.h"
-
-#include <string>
-#include <vector>
 
 int main()
 {
